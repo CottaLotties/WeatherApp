@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather App</string>
+
+    <string name="location_choice">Choose the location</string>
+    <string name="ok_button">OK</string>
+    <string name="starting_location">Vienna, AT</string>
+
+    <string name="pref_title_enable_geolocation">allow geolocation</string>
+
+</resources>
